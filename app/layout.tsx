@@ -16,7 +16,7 @@ export const metadata: Metadata = {
   title: "EventsHub",
   description: "Pltform to book and Host events",
   icons:{
-    icon:'/assets/images/logo.png'
+    icon:'/assets/images/tablogo.png'
   }
 };
 
